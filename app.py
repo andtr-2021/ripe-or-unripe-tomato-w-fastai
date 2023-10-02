@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-from fastbook import load_learner
+from fastai import *
 
 st.title ("Is this tomato ripe?")
 
